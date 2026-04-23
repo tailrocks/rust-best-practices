@@ -1,0 +1,22 @@
+{
+  "name": "rust-best-practices",
+  "description": "Rust engineering skills for writing, reviewing, refactoring, and documenting idiomatic Rust code",
+  "version": "0.1.0",
+  "author": {
+    "name": "Tailrocks",
+    "url": "https://github.com/tailrocks"
+  },
+  "homepage": "https://github.com/tailrocks/rust-best-practices",
+  "repository": "https://github.com/tailrocks/rust-best-practices",
+  "license": "Apache-2.0",
+  "keywords": [
+    "rust",
+    "skills",
+    "best-practices",
+    "code-review",
+    "clippy",
+    "rustfmt",
+    "testing",
+    "documentation"
+  ]
+}
